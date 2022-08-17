@@ -6,4 +6,4 @@ stream the sploink https://open.spotify.com/playlist/57ylZF65XifaeudSxmpnEH?si=d
 <br>
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=superliminal-defenestration&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 <br>
-<img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="SuperDefGames" />
+<img src="https://img.shields.io/twitter/follow/SuperDefGames?logo=twitter&style=for-the-badge" alt="SuperDefGames" />
